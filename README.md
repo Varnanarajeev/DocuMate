@@ -37,12 +37,6 @@ The LLM model brings advanced language processing capabilities to DocuMate, maki
 - **Customizable Prompting**: Adjust the model’s prompt settings to get responses tailored to specific needs.
 - **Enhanced Retrieval Accuracy**: LLMs improve the accuracy of information retrieval, particularly when combined with embeddings and vector stores like FAISS.
 
-### Limitations
-
-While LLM models are powerful, they have some limitations:
-- **Resource Intensity**: LLMs can be computationally demanding, which may impact performance for larger documents or high traffic.
-- **Potential for Bias**: Since LLMs are trained on large, public datasets, they may carry biases present in the data.
-- **Dependence on Prompting**: The quality of answers depends heavily on how prompts are structured, which requires careful customization for best results.
 
 By integrating a state-of-the-art LLM, DocuMate aims to make document querying and analysis as smooth and accurate as possible for its users.
 
