@@ -41,22 +41,6 @@ The LLM model brings advanced language processing capabilities to DocuMate, maki
 By integrating a state-of-the-art LLM, DocuMate aims to make document querying and analysis as smooth and accurate as possible for its users.
 
 
-## Setup Instructions
- **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/DocuMate.git
-   cd DocuMate
-
-Technologies Used
-Streamlit: Frontend interface
-
-LangChain: LLM-based framework for document chaining and retrieval
-
-FAISS: Vector store for efficient document retrieval
-
-PyPDFLoader: PDF document loading and processing
-
-
 
 
 
